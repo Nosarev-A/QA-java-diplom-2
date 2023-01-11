@@ -1,8 +1,9 @@
 import io.qameta.allure.Step;
 import io.restassured.response.ValidatableResponse;
+
 import static io.restassured.RestAssured.given;
 
-public class OrdersClient extends Client  {
+public class OrdersClient extends Client {
     private static final String ORDERS_PATH = "api/orders";
     private static final String ALL_ORDERS_PATH = "api/orders/all";
 
