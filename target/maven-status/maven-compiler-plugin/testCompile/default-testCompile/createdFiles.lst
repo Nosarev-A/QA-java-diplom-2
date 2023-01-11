@@ -1,0 +1,11 @@
+TestGetUnauthorizedUserOrders.class
+TestCreateOrderWithAuthorization.class
+TestGetAuthorizedUserOrders.class
+TestLoginExistingUser.class
+TestRegisterValidUser.class
+TestCreateOrderWithoutAuthorization.class
+TestRegisterExistingUser.class
+TestUpdateUnauthorizedUserData.class
+TestUpdateAuthorizedUserData.class
+TestLoginInvalidData.class
+TestRegisterUserWithoutData.class
